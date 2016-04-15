@@ -1,6 +1,6 @@
 name: Instagram_shares
 favicon: null
-layout_spectrum: 0.73907
+layout_spectrum: 0.76075
 typography_spectrum: 0.31023
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#e1e1e1'
+    - '#636361'
+    - '#fffeff'
+    - '#2f2f2f'
+    - '#2e2e2e'
   brandStrength: 0
   lightness: 0.5
   saturation: 1
