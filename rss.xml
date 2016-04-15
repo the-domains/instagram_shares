@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Instagram_shares]]></title>
         <description><![CDATA[Instagram_shares]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/instagram_shares/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Apr 2016 08:25:14 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 15 Apr 2016 08:35:23 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/instagram_shares/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Multiple Exposures II]]></title>
+            <description><![CDATA[<article><h1>Multiple Exposures II</h1><p>Testing the fuji xe 1 #doubleexposure #xe1 #photooftheday @chi_bear</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2e638906163585df9ba38142247248e357f24a7b.jpg"></article>]]></description>
+            <link>https://www.instagram.com/p/w1JgfrNl8M/</link>
+            <guid isPermaLink="false">10b6c730-f964-45e6-a90d-8bacdd9fca46</guid>
+            <pubDate>Fri, 15 Apr 2016 08:35:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Multiple Exposures]]></title>
             <description><![CDATA[<article><h1>Multiple Exposures</h1><p>Testing the fuji xe 1 #xe1 #doubleexposure #huf</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9f317f207989e82e97e51270224aa1ab8ce5a875.jpg"></article>]]></description>
