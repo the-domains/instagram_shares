@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Instagram_shares]]></title>
+        <description><![CDATA[Instagram_shares]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 15 Apr 2016 08:25:14 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Multiple Exposures]]></title>
+            <description><![CDATA[<article><h1>Multiple Exposures</h1><p>Testing the fuji xe 1 #xe1 #doubleexposure #huf</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9f317f207989e82e97e51270224aa1ab8ce5a875.jpg"></article>]]></description>
+            <link>https://www.instagram.com/p/w1JV9-tl79/</link>
+            <guid isPermaLink="false">b500f743-3e23-4613-a89a-7f29349fd416</guid>
+            <pubDate>Fri, 15 Apr 2016 08:25:08 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
