@@ -1,7 +1,7 @@
 name: Instagram_shares
 favicon: null
-layout_spectrum: 0.07500937161967158
-typography_spectrum: 0.26921903993934393
+layout_spectrum: 0.73907
+typography_spectrum: 0.31023
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  brandStrength: 0.1875
-  lightness: 0.20045786281116307
-  saturation: 0.4437629468739033
-  rhythmicContrast: 0.97769481735304
+  brandStrength: 0
+  lightness: 0.5
+  saturation: 1
+  rhythmicContrast: 0
 purpose: []
